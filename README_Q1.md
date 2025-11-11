@@ -13,4 +13,5 @@ Requirements Covered:
 - **REQ9:** Local database using Django ORM
 
 Output:
+
 ![Cash Register Output](https://github.com/OTUSOFE365025/assignment-3-django-and-energy-group-2-crn-43510/blob/master/Q1_output.png?raw=true)
